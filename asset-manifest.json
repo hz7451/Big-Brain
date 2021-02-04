@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Big-Brain/static/css/main.329ce8c2.chunk.css",
+    "main.js": "/Big-Brain/static/js/main.4389ffea.chunk.js",
+    "main.js.map": "/Big-Brain/static/js/main.4389ffea.chunk.js.map",
+    "runtime-main.js": "/Big-Brain/static/js/runtime-main.05490253.js",
+    "runtime-main.js.map": "/Big-Brain/static/js/runtime-main.05490253.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Big-Brain/static/css/2.31461e4f.chunk.css",
+    "static/js/2.18f22762.chunk.js": "/Big-Brain/static/js/2.18f22762.chunk.js",
+    "static/js/2.18f22762.chunk.js.map": "/Big-Brain/static/js/2.18f22762.chunk.js.map",
+    "static/js/3.fe5f3dae.chunk.js": "/Big-Brain/static/js/3.fe5f3dae.chunk.js",
+    "static/js/3.fe5f3dae.chunk.js.map": "/Big-Brain/static/js/3.fe5f3dae.chunk.js.map",
+    "index.html": "/Big-Brain/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Big-Brain/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.329ce8c2.chunk.css.map": "/Big-Brain/static/css/main.329ce8c2.chunk.css.map",
+    "static/js/2.18f22762.chunk.js.LICENSE.txt": "/Big-Brain/static/js/2.18f22762.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Big-Brain/static/media/background.a04aa0de.jpg",
+    "static/media/brain.f6ed918b.jpg": "/Big-Brain/static/media/brain.f6ed918b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05490253.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.18f22762.chunk.js",
+    "static/css/main.329ce8c2.chunk.css",
+    "static/js/main.4389ffea.chunk.js"
+  ]
+}
